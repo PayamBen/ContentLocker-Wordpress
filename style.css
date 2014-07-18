@@ -1,0 +1,12 @@
+/* Stylesheet for Tuts+ Content Locker Shortcode */
+.content-locker {
+    width: 80%;
+    display: block;
+    border: 3px dashed #ccc;
+    padding: 20px;
+    text-align: center;
+    margin: 20px auto
+}
+.content-locker div.fb-like.fb_iframe_widget {
+  overflow: hidden;
+}
